@@ -1,4 +1,3 @@
-cat > src/App.jsx << 'ENDOFFILE'
 import { useState } from "react";
 const SECTORS = [
   { label: "SaaS / Tech", margin: 28, minM: 10, maxM: 15 },
